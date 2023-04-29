@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajanshukla04.github.io/Portfolio-WebPage/](https://rajanshukla04.github.io/Portfolio-WebPage/)
 
-- 📝 I regularly write articles on [https://rajanshukla1.blogspot.c](https://rajanshukla1.blogspot.c)
+- 📝 I regularly write articles on [https://rajanshukla1.blogspot.com](https://rajanshukla1.blogspot.com)
 
 - 📫 How to reach me **rajan93992@gmail.com**
 
