@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/rajanshukla04/rajanshukla04/main/github-header-image.png)
+![MasterHead](https://raw.githubusercontent.com/rajanshukla04/rajanshukla04/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Rajan Shukla</h1>
 <h3 align="center">A passionate Frontend and Backend developer from India</h3>
 
