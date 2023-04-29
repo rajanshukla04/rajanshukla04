@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanshukla04&label=Profile%20views&color=0e75b6&style=flat" alt="rajanshukla04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajanshukla04" alt="rajanshukla04" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/rajanshukla04" target="blank"><img src="https://img.shields.io/badge/- FOLLOW @rajanshukla04-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajanshukla04" alt="rajanshukla04" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajanshukla04" target="blank"><img src="https://img.shields.io/twitter/follow/rajanshukla04?logo=twitter&style=for-the-badge" alt="rajanshukla04" /></a> </p>
 
 - 🔭 I’m currently working on [Podcast Webpage](https://github.com/rajanshukla04/Podcast-Website)
 
