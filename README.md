@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://linkedin.com/in/rajanshukla04" target="blank"><img src="https://img.shields.io/badge/- FOLLOW @rajanshukla04-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rajanshukla04" alt="rajanshukla04" /></a> </p>
 
 
-- 🔭 I’m currently working on [Podcast Webpage](https://github.com/rajanshukla04/Podcast-Website)
+- 🔭 I’m currently working on [Django-Applicato](https://github.com/rajanshukla04/Music-Player-login-page-with-django)
 
 - 👨‍💻 All of my projects are available at [https://rajanshukla04.github.io/Portfolio-WebPage/](https://rajanshukla04.github.io/Portfolio-WebPage/)
 
